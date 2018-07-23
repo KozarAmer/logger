@@ -4,7 +4,7 @@
 public class TestClient {
   public static void main(String[] args) throws Exception{
 	  // Creating object
-	  //Logger test = new Logger("http://logger.test.flash-global.net", "logger");
+	  //Logger test = new Logger("url", "logger");
 	
 	  // Tests
 	  //String[] array = {"context"};
